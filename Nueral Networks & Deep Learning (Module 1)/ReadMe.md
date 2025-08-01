@@ -110,4 +110,4 @@ Nueral Networks & Deep Learning (Module 1)/
 
 **Happy Learning!** 🚀  
 **Ahmed Buttar**  
-📧 [Email](mailto:ahmedbuttar7@gmail.com) | 🔗 [GitHub](https://github.com/AhmedButtar7) | 💼 [LinkedIn](https://linkedin.com/in/ahmedbuttar)
+📧 [Email](mailto:muhanmadahmed02@gmail.com) | 🔗 [GitHub](https://github.com/AhmedButtar7) | 💼 [LinkedIn](https://linkedin.com/in/ahmedbuttar)
