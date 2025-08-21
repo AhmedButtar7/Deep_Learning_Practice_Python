@@ -122,4 +122,4 @@ Improving Deep Neural Networks Hyperparameter Tuning, Regularization and Optimiz
 
 **Happy Learning!** 🚀  
 **Ahmed Buttar**  
-📧 [Email](mailto:muhanmadahmed02@gmail.com) | 🔗 [GitHub](https://github.com/AhmedButtar7) | 💼 [LinkedIn]([https://linkedin.com/in/ahmedbuttar](https://www.linkedin.com/in/muhammad-ahmed-a29142349?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+📧 [Email](mailto:muhanmadahmed02@gmail.com) | 🔗 [GitHub](https://github.com/AhmedButtar7) | 💼 [LinkedIn]([https://linkedin.com/in/ahmedbuttar](https://www.linkedin.com/in/muhammad-ahmed-a29142349))
